@@ -1,0 +1,7 @@
+PUT http://localhost:8080/api/persons/63b4f85016a635a984b313b1
+Content-Type: application/json
+
+{
+    "name": "Tony Blundetto",
+    "number": "867-5310"
+}

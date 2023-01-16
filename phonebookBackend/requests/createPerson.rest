@@ -1,0 +1,7 @@
+POST https://rough-pine-3118.fly.dev/api/persons
+Content-Type: application/json
+
+{
+    "name": "Furio Giunta",
+    "number": "867-5309"
+}
